@@ -1,0 +1,26 @@
+{
+  "node": {
+    "d94d26c6b55c7babde7088e735b1bec1c3f3e868": {
+      "workers": {
+        "app/new-listing/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5Cnode_modules%5C%5C%40workos-inc%5C%5Cauthkit-nextjs%5C%5Cdist%5C%5Ccjs%5C%5Cimpersonation.js%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5CDesktop%5C%5CNEXTJS%5C%5Cjob-board%5C%5Csrc%5C%5Capp%5C%5Ccomponents%5C%5CHeader.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5CDesktop%5C%5CNEXTJS%5C%5Cjob-board%5C%5Csrc%5C%5Capp%5C%5Ccomponents%5C%5CHeader.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5Cnode_modules%5C%5C%40workos-inc%5C%5Cauthkit-nextjs%5C%5Cdist%5C%5Ccjs%5C%5Cimpersonation.js%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/new-listing/page": "rsc",
+        "app/_not-found/page": "rsc"
+      }
+    },
+    "83198503c7daf1324d29e505d46e6c82a0ee22e6": {
+      "workers": {
+        "app/new-listing/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5Cnode_modules%5C%5C%40workos-inc%5C%5Cauthkit-nextjs%5C%5Cdist%5C%5Ccjs%5C%5Cimpersonation.js%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5CDesktop%5C%5CNEXTJS%5C%5Cjob-board%5C%5Csrc%5C%5Capp%5C%5Ccomponents%5C%5CHeader.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!",
+        "app/_not-found/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5CDesktop%5C%5CNEXTJS%5C%5Cjob-board%5C%5Csrc%5C%5Capp%5C%5Ccomponents%5C%5CHeader.jsx%22%2C%5B%22%24%24ACTION_0%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Csahil%5C%5Cnode_modules%5C%5C%40workos-inc%5C%5Cauthkit-nextjs%5C%5Cdist%5C%5Ccjs%5C%5Cimpersonation.js%22%2C%5B%22%24%24ACTION_0%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/new-listing/page": "rsc",
+        "app/_not-found/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "SyG0J+tcTZuXCYoF67zG68gL6YpzOq6KThGi0YYf81Y="
+}
